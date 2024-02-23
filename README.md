@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Syed Arham Hashmi</h1>
 <h3 align="center">A passionate programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arhamhashmi01&label=Profile%20views&color=0e75b6&style=flat" alt="arhamhashmi01" /> </p> <img align="right" alt="micro chip" width="300" src="https://clipart-library.com/img/2091643.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arhamhashmi01&label=Profile%20views&color=0e75b6&style=flat" alt="arhamhashmi01" /> </p> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhamhashmi01" alt="arhamhashmi01" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **VLSI | ASIC Design**
+- 🌱 I’m currently learning **VLSI | ASIC Design**        <img align="right" alt="micro chip" width="300" src="https://clipart-library.com/img/2091643.gif">
 
 - 💬 Ask me about **C++ | Verilog | Python | RISC-V Assembly**
 
