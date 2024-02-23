@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **VLSI | ASIC Design** <img align="right" alt="micro chip" width="300" src="https:[//clipart-library.com/img/2091643.gif](https://i.makeagif.com/media/2-02-2023/BboWfJ.gif)">
+- 🌱 I’m currently learning **VLSI | ASIC Design** <img align="right" alt="micro chip" width="300" src="https:(https://i.makeagif.com/media/2-02-2023/BboWfJ.gif)">
 - 💬 Ask me about **C++ | Verilog | Python | RISC-V Assembly**
 - 👯 I’m looking to collaborate on **RISC-V**
 - 👨‍💻 All of my projects are available at [https://github.com/arhamhashmi01](https://github.com/arhamhashmi01)
