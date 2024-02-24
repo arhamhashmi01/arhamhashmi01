@@ -9,8 +9,11 @@
 
 <img align="right" alt="micro chip" width="300" src="https://i.makeagif.com/media/2-02-2023/BboWfJ.gif">
 - 🌱 I’m currently learning **VLSI | ASIC Design** 
+
 - 💬 Ask me about **C++ | Verilog | Python | RISC-V Assembly**
+- 
 - 👯 I’m looking to collaborate on **RISC-V**
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/arhamhashmi01](https://github.com/arhamhashmi01)
 
 - 📫 How to reach me **arhamhashmi82@gmail.com**
