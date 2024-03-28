@@ -1,5 +1,8 @@
+<img src="https://github.com/arhamhashmi01/arhamhashmi01/blob/main/banner.png" alt="banner Image">
 <h1 align="center">Hi 👋, I'm Syed Arham Hashmi</h1>
-<h3 align="center">A passionate programmer</h3>
+<h3 align="center">A Passionate Computer Engineer</h3>
+
+Computer Systems Engineering student passionate about technology and innovation. Proficient in programming languages like Python, Verilog,RISC-V Assembly and C++, I'm eager to contribute meaningfully to the field. Let's connect and explore opportunities together!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhamhashmi01&label=Profile%20views&color=0e75b6&style=flat" alt="arhamhashmi01" /> </p> 
 
