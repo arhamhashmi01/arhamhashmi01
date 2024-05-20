@@ -12,7 +12,7 @@ Computer Systems Engineering student passionate about technology and innovation.
 
 <img align="right" alt="micro chip" width="300" src="https://i.makeagif.com/media/2-02-2023/BboWfJ.gif">
 
-- 🌱 I’m currently learning **VLSI | ASIC Design** 
+- 🌱 I’m currently learning **VLSI | ASIC Design | FPGAs** 
 
 - 💬 Ask me about **C++ | Verilog | Python | RISC-V Assembly**
   
