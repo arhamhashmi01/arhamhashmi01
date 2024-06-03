@@ -188,3 +188,6 @@ Computer Systems Engineering student passionate about technology and innovation.
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+
+
