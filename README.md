@@ -37,3 +37,5 @@ Computer Systems Engineering student passionate about technology and innovation.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arhamhashmi01&show_icons=true&locale=en" alt="arhamhashmi01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamhashmi01&" alt="arhamhashmi01" /></p>
+
+![Alt](https://repobeats.axiom.co/api/embed/e55d88397161c3fac260d64c52a1cff127003be7.svg "Repobeats analytics image")
