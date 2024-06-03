@@ -167,6 +167,10 @@ Computer Systems Engineering student passionate about technology and innovation.
 </a>
 <br><br>
 
+![City Theme](https://github.com/arhamhashmi01/arhamhashmi01/blob/main/Images/citytheme.gif?raw=true)
+[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
@@ -184,5 +188,3 @@ Computer Systems Engineering student passionate about technology and innovation.
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-![City Theme](https://github.com/arhamhashmi01/arhamhashmi01/blob/main/Images/citytheme.gif?raw=true)
-[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
