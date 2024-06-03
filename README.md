@@ -38,6 +38,22 @@ Computer Systems Engineering student passionate about technology and innovation.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamhashmi01&" alt="arhamhashmi01" /></p>
 
+</a> 
+  【﻿G R A P H】 
+</h3>
+
+<a href="https://github.com/muhammadtalhasami">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+<br><br>
+
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=muhammadtalhasami&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/muhammadtalhasami) </br>
+<br><br>
+
+</a> 
+  【﻿R E P O_A C T I V I T Y】 
+</h3>
+
 <p align="center">
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamhashmi01&theme=algolia" width="100%" /> </br></br>
