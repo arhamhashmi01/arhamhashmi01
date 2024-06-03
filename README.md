@@ -59,7 +59,7 @@ Computer Systems Engineering student passionate about technology and innovation.
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/arhamhashmi01">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【﻿LANGUAGES & TOOL】 
+   </a> 【﻿LANGUAGES & TOOLS】 
 
 </h3>
 
