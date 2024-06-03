@@ -38,7 +38,13 @@ Computer Systems Engineering student passionate about technology and innovation.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamhashmi01&" alt="arhamhashmi01" /></p>
 
-</a> 
+<h3 align="center">
+  <a href="https://github.com/arhamhashmi01">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left"/>
+  </a> 
+  <a href="https://github.com/arhamhashmi01">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right"/>
+  </a> 
   【﻿G R A P H】 
 </h3>
 
@@ -50,9 +56,19 @@ Computer Systems Engineering student passionate about technology and innovation.
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=arhamhashmi01&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/arhamhashmi01) </br>
 <br><br>
 
-</a> 
+<h3 align="center">
+  <a href="https://github.com/arhamhashmi01">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left"/>
+  </a>
+  <a href="https://github.com/arhamhashmi01">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right"/>
+  </a> 
   【﻿R E P O_A C T I V I T Y】 
 </h3>
+
+<a href="https://github.com/arhamhashmi01">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
 
 <p align="center">
 <div align="center">
