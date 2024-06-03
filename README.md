@@ -38,4 +38,14 @@ Computer Systems Engineering student passionate about technology and innovation.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamhashmi01&" alt="arhamhashmi01" /></p>
 
+<p align="center">
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhamhashmi01&theme=algolia" width="100%" /> </br></br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arhamhashmi01&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arhamhashmi01&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arhamhashmi01&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+</br></br>
+ </a>
+
 ![Alt](https://repobeats.axiom.co/api/embed/e55d88397161c3fac260d64c52a1cff127003be7.svg "Repobeats analytics image")
