@@ -167,5 +167,22 @@ Computer Systems Engineering student passionate about technology and innovation.
 </a>
 <br><br>
 
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 ![City Theme](https://github.com/arhamhashmi01/arhamhashmi01/blob/main/Images/citytheme.gif?raw=true)
 [![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
