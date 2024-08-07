@@ -6,12 +6,6 @@ Computer Systems Engineering student passionate about technology and innovation.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhamhashmi01&label=Profile%20views&color=0e75b6&style=flat" alt="arhamhashmi01" /> </p> 
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arhamhashmi01&theme=onestar" alt="arhamhashmi01" />
-  </a>
-</p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <img align="right" alt="micro chip" width="300" src="https://i.makeagif.com/media/2-02-2023/BboWfJ.gif">
@@ -120,6 +114,12 @@ Computer Systems Engineering student passionate about technology and innovation.
 
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=arhamhashmi01&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/arhamhashmi01) </br>
 <br><br>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arhamhashmi01&theme=onestar" alt="arhamhashmi01" />
+  </a>
+</p>
 
 <a href="https://github.com/arhamhashmi01">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
