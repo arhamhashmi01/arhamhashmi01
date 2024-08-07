@@ -5,9 +5,7 @@
 Computer Systems Engineering student passionate about technology and innovation. Proficient in programming languages like Python, Verilog,RISC-V Assembly and C++, I'm eager to contribute meaningfully to the field. Let's connect and explore opportunities together!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhamhashmi01&label=Profile%20views&color=0e75b6&style=flat" alt="arhamhashmi01" /> </p> 
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <img align="right" alt="micro chip" width="300" src="https://i.makeagif.com/media/2-02-2023/BboWfJ.gif">
 
 - 🔭 I’m currently working on **Booting Linux or CVA6 RISC-V Processor Ported on FPGA**
