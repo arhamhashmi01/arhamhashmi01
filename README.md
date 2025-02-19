@@ -40,7 +40,7 @@ Computer Systems Engineering student passionate about technology and innovation.
 </a>
 
 <p align="left">
-<a href="https://linkedin.com/in/arham hashmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arham hashmi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arhamhashmi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arham hashmi" height="30" width="40" /></a>
 <a href="https://fb.com/syed arham hashmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed arham hashmi" height="30" width="40" /></a>
 <a href="https://instagram.com/s.arham_hashmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.arham_hashmi" height="30" width="40" /></a>
 </p>
